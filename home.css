@@ -1,7 +1,8 @@
 header{
     color:red;
+    border: 1px solid white;
 }      
 
-nav{
-    background-color: #fff;
+main{
+    padding: 5px;
 }
