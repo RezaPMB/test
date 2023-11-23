@@ -10,3 +10,7 @@ main{
 .banner{
     margin: 10px;
 }
+
+footer{
+    display: flex;
+}
